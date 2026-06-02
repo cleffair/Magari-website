@@ -58,7 +58,7 @@ export default function Footer() {
             <ul className="flex flex-col gap-3">
               <li>
                 <a
-                  href="https://instagram.com/magaristudio"
+                  href="https://instagram.com/magaristudio_in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex items-center gap-1 text-xs text-terrene-charcoal/70 hover:text-raw-clay transition-colors duration-300 font-light tracking-wider"
@@ -69,7 +69,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://wa.me/910000000000"
+                  href="https://wa.me/919893027861"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex items-center gap-1 text-xs text-terrene-charcoal/70 hover:text-raw-clay transition-colors duration-300 font-light tracking-wider"

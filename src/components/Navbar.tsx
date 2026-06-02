@@ -40,20 +40,19 @@ export default function Navbar() {
   return (
     <>
       <header
-        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-700 ease-in-out ${
-          isScrolled
-            ? "bg-bone-white/90 backdrop-blur-md py-4 border-b-[0.5px] border-stone-200/60"
-            : "bg-transparent py-6 border-b-[0.5px] border-transparent"
-        }`}
+        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-700 ease-in-out ${isScrolled
+          ? "bg-bone-white/90 backdrop-blur-md py-4 border-b-[0.5px] border-stone-200/60"
+          : "bg-transparent py-6 border-b-[0.5px] border-transparent"
+          }`}
       >
         <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
           {/* Logo Section */}
           <Link href="/" className="relative z-50 flex items-center">
             {/* Using the provided Magari logo.svg asset */}
             <img
-              src="/Magari logo.svg"
+              src="/Magari logo.png"
               alt="Magari Studio Logo"
-              className="h-7 w-auto object-contain transition-all duration-500 ease-in-out"
+              className="h-20 w-auto -mt-6 object-contain transition-all duration-500 ease-in-out"
               style={{
                 filter: isScrolled || isMobileMenuOpen ? "none" : "brightness(0.9) contrast(1.1)",
               }}
@@ -138,11 +137,10 @@ export default function Navbar() {
                     >
                       <Link
                         href={link.href}
-                        className={`font-serif text-3xl font-light italic transition-colors duration-300 flex items-center justify-between ${
-                          isActive
-                            ? "text-raw-clay"
-                            : "text-terrene-charcoal hover:text-artisanal-sage"
-                        }`}
+                        className={`font-serif text-3xl font-light italic transition-colors duration-300 flex items-center justify-between ${isActive
+                          ? "text-raw-clay"
+                          : "text-terrene-charcoal hover:text-artisanal-sage"
+                          }`}
                       >
                         {link.name}
                         {isActive && (
@@ -168,7 +166,7 @@ export default function Navbar() {
               </div>
               <div className="flex gap-4">
                 <a
-                  href="https://wa.me/910000000000"
+                  href="https://wa.me/919893027861"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 text-center bg-terrene-charcoal hover:bg-artisanal-sage text-bone-white py-3.5 text-[10px] tracking-[0.2em] uppercase transition-colors duration-300 font-medium"

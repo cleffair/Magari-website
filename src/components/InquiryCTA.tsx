@@ -49,7 +49,7 @@ export default function InquiryCTA() {
                       <X className="w-3.5 h-3.5" />
                     </button>
                   </div>
-                  
+
                   <p className="text-[11px] text-terrene-charcoal/70 leading-relaxed font-light">
                     Every garment is custom-tailored with precision at our Indore atelier. Let us guide your selection.
                   </p>
@@ -57,7 +57,7 @@ export default function InquiryCTA() {
                   <div className="flex flex-col gap-2 mt-1">
                     {/* WhatsApp CTA */}
                     <a
-                      href="https://wa.me/910000000000"
+                      href="https://wa.me/+919893027861"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-between bg-terrene-charcoal hover:bg-artisanal-sage text-bone-white py-2.5 px-4 text-[10px] tracking-[0.2em] uppercase transition-colors duration-300 font-medium"
@@ -71,7 +71,7 @@ export default function InquiryCTA() {
 
                     {/* Instagram CTA */}
                     <a
-                      href="https://instagram.com/magaristudio"
+                      href="https://instagram.com/magaristudio_in"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-between border border-stone-300 hover:border-terrene-charcoal py-2.5 px-4 text-[10px] tracking-[0.2em] uppercase transition-colors duration-300 font-medium"

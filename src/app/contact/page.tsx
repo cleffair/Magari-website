@@ -78,7 +78,7 @@ export default function Contact() {
               </div>
 
               <a
-                href="https://wa.me/910000000000?text=Hello%20Magari%20Studio%2C%20I%20would%20love%20to%20inquire%20about%20your%20contemporary%20garments."
+                href="https://wa.me/919893027861?text=Hello%20Magari%20Studio%2C%20I%20would%20love%20to%20inquire%20about%20your%20contemporary%20garments."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group w-full bg-terrene-charcoal hover:bg-artisanal-sage text-bone-white py-3.5 px-6 text-center text-[10px] tracking-[0.2em] uppercase font-semibold transition-colors duration-500 flex items-center justify-center gap-1.5 shadow-sm mt-auto"
@@ -102,7 +102,7 @@ export default function Contact() {
               </div>
 
               <a
-                href="https://instagram.com/magaristudio"
+                href="https://instagram.com/magaristudio_in"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group w-full border border-stone-300 hover:border-terrene-charcoal py-3.5 px-6 text-center text-[10px] tracking-[0.2em] uppercase font-semibold text-terrene-charcoal bg-transparent transition-all duration-300 flex items-center justify-center gap-1.5 mt-auto"

@@ -473,7 +473,7 @@ export default function Home() {
                   className="w-full h-full object-cover transition-transform duration-1000 ease-out group-hover:scale-105"
                 />
                 <a
-                  href="https://instagram.com/magaristudio"
+                  href="https://instagram.com/magaristudio_in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="absolute inset-0 bg-stone-950/30 opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-center justify-center z-10"
@@ -485,7 +485,7 @@ export default function Home() {
               </div>
               <div className="flex justify-between items-center text-[10px] tracking-wider font-light text-stone-500">
                 <span>The Organic Drape</span>
-                <span className="text-raw-clay">@magaristudio</span>
+                <span className="text-raw-clay">@magaristudio_in</span>
               </div>
             </MotionWrapper>
 
@@ -498,7 +498,7 @@ export default function Home() {
                   className="w-full h-full object-cover transition-transform duration-1000 ease-out group-hover:scale-105"
                 />
                 <a
-                  href="https://instagram.com/magaristudio"
+                  href="https://instagram.com/magaristudio_in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="absolute inset-0 bg-stone-950/30 opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-center justify-center z-10"
@@ -510,7 +510,7 @@ export default function Home() {
               </div>
               <div className="flex justify-between items-center text-[10px] tracking-wider font-light text-stone-500">
                 <span>Linen Textures</span>
-                <span className="text-raw-clay">@magaristudio</span>
+                <span className="text-raw-clay">@magaristudio_in</span>
               </div>
             </MotionWrapper>
 
@@ -523,7 +523,7 @@ export default function Home() {
                   className="w-full h-full object-cover transition-transform duration-1000 ease-out group-hover:scale-105"
                 />
                 <a
-                  href="https://instagram.com/magaristudio"
+                  href="https://instagram.com/magaristudio_in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="absolute inset-0 bg-stone-950/30 opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-center justify-center z-10"
@@ -535,7 +535,7 @@ export default function Home() {
               </div>
               <div className="flex justify-between items-center text-[10px] tracking-wider font-light text-stone-500">
                 <span>The Contemporary Muse</span>
-                <span className="text-raw-clay">@magaristudio</span>
+                <span className="text-raw-clay">@magaristudio_in</span>
               </div>
             </MotionWrapper>
 
@@ -543,7 +543,7 @@ export default function Home() {
 
           <div className="flex justify-center mt-16">
             <a
-              href="https://instagram.com/magaristudio"
+              href="https://instagram.com/magaristudio_in"
               target="_blank"
               rel="noopener noreferrer"
               className="group border border-stone-300 hover:border-terrene-charcoal py-3.5 px-8 text-[10px] tracking-[0.25em] uppercase font-semibold text-terrene-charcoal transition-colors duration-500 inline-flex items-center gap-1.5"

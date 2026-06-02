@@ -149,7 +149,7 @@ export default function Collections() {
                 {/* Inquiry button */}
                 <MotionWrapper delay={0.4} className="mt-4">
                   <a
-                    href={`https://wa.me/910000000000?text=${encodeURIComponent(col.whatsappText)}`}
+                    href={`https://wa.me/919893027861?text=${encodeURIComponent(col.whatsappText)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group bg-terrene-charcoal hover:bg-artisanal-sage text-bone-white py-3.5 px-6 text-[10px] tracking-[0.2em] uppercase font-semibold transition-colors duration-500 inline-flex items-center justify-center gap-2"
@@ -182,7 +182,7 @@ export default function Collections() {
               </p>
               <div className="mt-4">
                 <a
-                  href="https://wa.me/910000000000?text=I%20am%20interested%20in%20The%20Ivory%20Silk%20Saree."
+                  href="https://wa.me/919893027861?text=I%20am%20interested%20in%20The%20Ivory%20Silk%20Saree."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-transparent border border-stone-300 hover:border-terrene-charcoal text-terrene-charcoal py-3.5 px-8 text-[10px] tracking-[0.2em] uppercase font-semibold transition-all duration-300 inline-flex items-center justify-center gap-2"

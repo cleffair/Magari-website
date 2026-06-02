@@ -104,7 +104,7 @@ export default function VisitStudio() {
                       Contact Phone & WhatsApp
                     </span>
                     <span className="font-medium text-terrene-charcoal block">
-                      +91 90000 00000
+                      +91 98930 27861
                     </span>
                     <span className="text-[11px] text-stone-400 font-light mt-0.5 block">
                       studio@magaristudio.com
@@ -126,7 +126,7 @@ export default function VisitStudio() {
                   <ArrowUpRight className="w-3.5 h-3.5" />
                 </a>
                 <a
-                  href="https://wa.me/910000000000?text=I%20would%20love%20to%20schedule%20a%20private%20studio%20visit."
+                  href="https://wa.me/919893027861?text=I%20would%20love%20to%20schedule%20a%20private%20studio%20visit."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="border border-stone-300 hover:border-terrene-charcoal text-terrene-charcoal py-4 px-8 text-center text-[10px] tracking-[0.2em] uppercase font-medium bg-transparent transition-colors duration-500 flex items-center justify-center"
